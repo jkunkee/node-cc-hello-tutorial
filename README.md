@@ -6,6 +6,6 @@ In a terminal:
     git clone git://github.com/jkunkee/node-cc-hello-tutorial.git
     cd node-cc-hello-tutorial
     node-waf configure build
-    node say.js
+    node say.js 55
 
 I have yet to try this on a fresh system, so node-waf may be lacking some python dependencies. 
