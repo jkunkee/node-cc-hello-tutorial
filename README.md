@@ -1,6 +1,4 @@
 
-In order to get this example to run:
-
 Make sure Node.js is installed ([see "How to Install Node.js"](http://howtonode.org/how-to-install-nodejs))
 
 In a terminal:
