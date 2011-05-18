@@ -5,7 +5,8 @@
 	var hello = require("./build/default/hello");
 
 	console.log(hello);
-	console.log(hello[1]);
-	console.log(hello.potato(55));
+	var n = 2;
+	console.log(process.argv[n]);
+	console.log(hello.func(process.argv[n]));
 }());
 
